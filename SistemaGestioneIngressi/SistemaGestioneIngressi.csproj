@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListaOrari.cs" />
+    <Compile Include="UscitaNodo.cs" />
+    <Compile Include="NodoOrario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IngressoNodo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
